@@ -1,0 +1,6 @@
+how to remove dev branch  locally
+git branch -d dev
+
+
+how to remove dev branch  remotly
+git branch origin :dev
